@@ -1,0 +1,42 @@
+## **Tier 2: Intermediate Grind (40 Projects)**
+
+Goal: **Pointers, memory management, file I/O, DSA.**
+
+* [x] Dynamic array (malloc + realloc).
+* [x] Simple database (save students’ data to file).
+* [ ] Contact book with file storage.
+* [ ] File encryptor/decryptor (XOR method).
+* [ ] Bank management system (files + structs).
+* [ ] Student marks analyzer (avg, highest, lowest).
+* [ ] Build your own `strlen()`, `strcpy()`, `strcmp()`.
+* [ ] Stack (push/pop/peek).
+* [ ] Queue (enqueue/dequeue).
+* [ ] Circular queue.
+* [ ] Linked list operations (insert, delete, search).
+* [ ] Doubly linked list.
+* [ ] Polynomial addition using linked lists.
+* [ ] Implement binary search.
+* [ ] Binary search tree (insert, search, delete).
+* [ ] Inorder, Preorder, Postorder traversal.
+* [ ] Heap implementation (min & max).
+* [ ] Priority queue using heap.
+* [ ] Graph adjacency list + BFS & DFS.
+* [ ] Dijkstra’s shortest path algorithm.
+* [ ] Implement a hash table (chaining).
+* [ ] Caesar cipher.
+* [ ] Vigenère cipher.
+* [ ] Simple terminal-based text editor (insert, delete lines).
+* [ ] Student grading system with persistent file storage.
+* [ ] Music playlist manager (linked list + file).
+* [ ] Hangman game (random words from file).
+* [ ] Sudoku solver (backtracking).
+* [ ] Minesweeper (console).
+* [ ] Conway’s Game of Life.
+* [ ] Basic compiler tokenizer (break input into tokens).
+* [ ] Build your own `printf()` (basic).
+* [ ] Custom memory allocator (mini malloc).
+* [ ] Image pixel manipulator (BMP reader/writer).
+* [ ] URL shortener (hashing + file).
+* [ ] Markdown-to-HTML converter (basic).
+* [ ] JSON parser (read & display JSON).
+* [ ] CSV reader/writer.
