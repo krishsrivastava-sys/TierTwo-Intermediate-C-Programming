@@ -8,8 +8,7 @@
  * - FILE *fp = fopen("<file.name>", "mode")
  * -
  */
-struct Student
-{
+struct Student {
     int id;
     char name[100];
     int age;
